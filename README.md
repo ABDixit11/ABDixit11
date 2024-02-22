@@ -7,8 +7,8 @@ Software Engineer
 * 🌍  I'm based in Tempe, AZ
 * ✉️  You can contact me at [abhijeetsunildixit@gmail.com](mailto:abhijeetsunildixit@gmail.com)
 * 🚀  I'm currently working on [TutorMatch](http://github.com/ABDixit11/tutor-match)
-* 🧠  I'm learning React, Image Recognition, Clingo, Blockchain
-* 🤝  I'm open to collaborating on Web Development
+* 🧠  I'm learning React, Machine Learning, Clingo, & Robot Operating System.
+* 🤝  I'm open to collaborating on Application Development.
 
 ### Skills
 
