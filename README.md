@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-* 🌍  I'm based in Tempe, AZ
+* 🌍  I'm based in Phoenix, AZ
 * ✉️  You can contact me at [abhijeetsunildixit@gmail.com](mailto:abhijeetsunildixit@gmail.com)
-* 🚀  I'm currently working on [TutorMatch](http://github.com/ABDixit11/tutor-match)
+* 🚀  I'm currently working on TutorMatch and Live Transcription
 * 🧠  I'm learning React, Machine Learning, Clingo, & Robot Operating System.
 * 🤝  I'm open to collaborating on Application Development.
 
